@@ -1,0 +1,1 @@
+mvn archetype:generate  -DarchetypeGroupId=net.liftweb  -DarchetypeArtifactId=lift-archetype-basic_2.8.1 -DarchetypeVersion=2.3 -DarchetypeRepository=http://scala-tools.org/repo-releases  -DremoteRepositories=http://scala-tools.org/repo-releases -DgroupId=com.cosiin -DartifactId=lift_test -Dversion=1.0
